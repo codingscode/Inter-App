@@ -1,17 +1,21 @@
 
-
-no terminal pelo git:
-    git checkout -b template
-
-pasta clonebackend terminal:
-    npm i typeorm --save
-    npm i pg --save
-    npm run start:dev
-    
+desconsiderar
+"""
+                no terminal pelo git:
+                    git checkout -b template
+                
+                pasta clonebackend terminal:
+                    npm i typeorm --save
+                    npm i pg --save
+                    npm run start:dev
+""" 
 
 
 inicio
 
+pasta clonebackend terminal:
+    npm i nodemon
+    npm run start:dev
 
 
 
